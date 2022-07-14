@@ -1,0 +1,20 @@
+{
+    "name": "zheng-y-s/geohash",
+    "description": "Geohash",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+    	{
+    		"name": "zhengys",
+    		"email": "674954904@qq.com"
+    	}
+    ],
+    "require": {
+    	"php": ">=5.6"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"Geohash\\": "src"
+    	}
+    }
+}
